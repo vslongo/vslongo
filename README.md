@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Vinicius</h1>
 <h3 align="center">Um apaixonado desenvolvedor de software do Brasil</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=vslongo&label=Profile%20views&color=0e75b6&style=flat" alt="vslongo" /> </p>
+<p align="left"> <img src=" https://komarev.com/ghpvc/?username=vslongo&label=Profile%20views&color=0e75b6&style=flat" alt="vslongo"/> </p>
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vslongo" alt="vslongo" /></a > </p>
 
