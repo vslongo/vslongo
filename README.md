@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vslongo" alt="vslongo" /></a> </p>
 
 
-- 🔭 Atualmente estou trabalhando no **HubSys.io**
+- 🔭 Atualmente estou trabalhando na **HubSys.io**
 
 - 🌱 Estou atualmente aprendendo **PHP, Js e seus frameworks**
 
