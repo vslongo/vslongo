@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vslongo" alt="vslongo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vini_0508" target="blank"><img src="https://img.shields.io/twitter/follow/vini_0508?logo=twitter&style=for-the-badge" alt="vini_0508" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando no **HubSys.io**
 
