@@ -12,7 +12,7 @@
 
 - 📫 Como entrar em contato comigo **vslongo@gmail.com**
 
-- 📄 Conheça minhas experiências [Currículo](https://drive.google.com/file/d/13nfnolvo35gbLAlCmO7YnnzCCbXKRy5s/view?usp=sharing)
+- 📄 Conheça minhas experiências [Currículo](https://drive.google.com/file/d/1xXfmcImLR86FZWrdHQ4Mwtk384Zpw-vw/view?usp=sharing)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
