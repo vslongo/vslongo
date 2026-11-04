@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/vinicius-slongo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vslongo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/vini_0508"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1jVnnuNpmHm6EfEypWeAyErAhVx4hoKl3/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-00D9FF?style=for-the-badge&logo=googledrive&logoColor=black" /></a>
   <img src="https://komarev.com/ghpvc/?username=vslongo&label=Views&color=0f3460&style=for-the-badge" />
 </p>
