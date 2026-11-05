@@ -57,24 +57,6 @@
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,vscode&theme=dark" />
 </p>
 
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vslongo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vslongo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&locale=pt-br" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vslongo&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vslongo&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" />
-</p>
-
-<hr>
 
 <!-- FOOTER -->
 <p align="center">
